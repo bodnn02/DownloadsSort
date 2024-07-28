@@ -1,0 +1,66 @@
+{
+    "downloads": "D:/Downloads",
+    "images": {
+        "path": "C:/Users/bodnn/OneDrive/Изображения",
+        "extensions": [
+            ".jpg",
+            ".png",
+            ".gif"
+        ]
+    },
+    "music": {
+        "path": "C:/Users/bodnn/OneDrive/Music",
+        "extensions": [
+            ".mp3",
+            ".wav",
+            ".flac",
+            ".weba"
+        ]
+    },
+    "videos": {
+        "path": "E:/Videos",
+        "extensions": [
+            ".mp4",
+            ".avi",
+            ".mkv",
+            ".mov"
+        ]
+    },
+    "executables": {
+        "path": "D:/Downloads/Executables",
+        "extensions": [
+            ".exe",
+            ".msi"
+        ]
+    },
+    "documents": {
+        "path": "C:/Users/bodnn/OneDrive/Документы",
+        "extensions": [
+            ".docx",
+            ".pdf",
+            ".txt"
+        ]
+    },
+    "compressed": {
+        "path": "D:/Downloads/Compressed",
+        "extensions": [
+            ".zip",
+            ".7z",
+            ".rar"
+        ]
+    },
+    "databases": {
+        "path": "D:/Downloads/Databases",
+        "extensions": [
+            ".db",
+            ".sqlite",
+            ".sql"
+        ]
+    },
+    "torrents": {
+        "path": "D:/Downloads/Torrents",
+        "extensions": [
+            ".torrent"
+        ]
+    }
+}
