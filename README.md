@@ -28,5 +28,5 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/DownloadsOrganizer.git
-   cd DownloadsOrganizer
+   git clone https://github.com/bodnn02/DownloadsSort.git
+   cd DownloadsSort
